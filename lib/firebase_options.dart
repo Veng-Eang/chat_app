@@ -50,21 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDBxkQPBI6qdvcwqJCydIca6VdC60e4G3I',
-    appId: '1:770603213771:android:49e90ce240376ab705cc4e',
-    messagingSenderId: '770603213771',
-    projectId: 'learn-flutter-64271',
-    databaseURL: 'https://learn-flutter-64271-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'learn-flutter-64271.appspot.com',
+    apiKey: 'AIzaSyAk73fgWk372mTr78r_PV8DduNtxLb5Yx4',
+    appId: '1:671857745874:android:191360038a45eb429b320b',
+    messagingSenderId: '671857745874',
+    projectId: 'chat-3f86b',
+    storageBucket: 'chat-3f86b.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA7Vee9QsT3ZhSdIHxZ8dOyBpPQjPMYZNU',
-    appId: '1:770603213771:ios:8a4e760a7e8c4d6e05cc4e',
-    messagingSenderId: '770603213771',
-    projectId: 'learn-flutter-64271',
-    databaseURL: 'https://learn-flutter-64271-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'learn-flutter-64271.appspot.com',
+    apiKey: 'AIzaSyAAr-g4r5zAoRKnX_wIXtgc9w9THjgH1-c',
+    appId: '1:671857745874:ios:3120d5727c23c5b39b320b',
+    messagingSenderId: '671857745874',
+    projectId: 'chat-3f86b',
+    storageBucket: 'chat-3f86b.appspot.com',
     iosBundleId: 'com.vengeang.chatApp',
   );
 }

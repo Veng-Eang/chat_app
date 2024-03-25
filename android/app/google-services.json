@@ -1,14 +1,13 @@
 {
   "project_info": {
-    "project_number": "770603213771",
-    "firebase_url": "https://learn-flutter-64271-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "learn-flutter-64271",
-    "storage_bucket": "learn-flutter-64271.appspot.com"
+    "project_number": "671857745874",
+    "project_id": "chat-3f86b",
+    "storage_bucket": "chat-3f86b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:770603213771:android:49e90ce240376ab705cc4e",
+        "mobilesdk_app_id": "1:671857745874:android:191360038a45eb429b320b",
         "android_client_info": {
           "package_name": "com.vengeang.chat_app"
         }
@@ -16,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDBxkQPBI6qdvcwqJCydIca6VdC60e4G3I"
+          "current_key": "AIzaSyAk73fgWk372mTr78r_PV8DduNtxLb5Yx4"
         }
       ],
       "services": {
