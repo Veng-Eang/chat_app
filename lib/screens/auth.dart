@@ -63,6 +63,9 @@ class _AuthScreenState extends State<AuthScreen> {
         print(imageUrl);
       }
     } on FirebaseAuthException catch (error) {
+      setState(() {
+        _isAuthenticating = false;
+      });
       if (error.code == 'email-already-in-use') {
         print('I got u');
       }
